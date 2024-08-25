@@ -1,0 +1,1 @@
+Esse código contem uma calculadora simples usando os comandos switch case para permitir ao usuário escolher a operação que deseja dentre as 4 operações básicas, e a operação de divisão irá informar caso o resto seja !=0 e se for, irá exibir o valor do mesmo
